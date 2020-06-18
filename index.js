@@ -1,4 +1,4 @@
 let num1 = 2
 let num2 = 31
 
-const multiply = 
+const multiply = num1 * num2
