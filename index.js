@@ -7,4 +7,4 @@ const random = Math.random()
 
 const mod = 24 % 5
 
-const max(20)
+const max = Math.max(20)
