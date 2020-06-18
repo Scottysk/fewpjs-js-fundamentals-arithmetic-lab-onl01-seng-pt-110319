@@ -3,4 +3,4 @@ let num2 = 31
 
 const multiply = num1 * num2
 
-const random = 
+const random = Math.random
