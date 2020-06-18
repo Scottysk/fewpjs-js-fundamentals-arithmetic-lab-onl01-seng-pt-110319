@@ -5,4 +5,4 @@ const multiply = num1 * num2
 
 const random = Math.random()
 
-const mod = 
+const mod = 24 % 5
